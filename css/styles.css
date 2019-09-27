@@ -6,3 +6,7 @@ h1 {
 font-size: 7px;
 text-align:center;
 }
+
+body {
+    background-image:url("../IP3-master/assets/backgrounds/h_img.jpg")
+}
