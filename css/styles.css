@@ -45,6 +45,14 @@ padding-top:80px;
     text-align: center;
 }
 
-#k {
-    text-align: left
+#k-hidden {
+  display:none;  
+}
+
+#l-hidden {
+    display:none;
+}
+
+#m-hidden {
+    
 }
