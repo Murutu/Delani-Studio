@@ -11,3 +11,10 @@ $(document).ready(function() {
         $("#d2-show").toggle()
     });
 });
+
+$(document).ready(function() {
+    $(".click2").click(function() {
+        $("#m-hidden").toggle()
+            $("#d3-show").toggle()
+        });
+    });
