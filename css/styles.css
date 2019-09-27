@@ -5,8 +5,14 @@ h1 {
 #b {
 font-size: 7px;
 text-align:center;
+color:white;
 }
 
 body {
     background-image:url("../IP3-master/assets/backgrounds/h_img.jpg")
+}
+
+#c {
+    text-align: center;
+    width: 10
 }
