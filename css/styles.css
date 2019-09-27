@@ -13,6 +13,7 @@ color:white;
     background-size:contain;
     width:100%;
     height:auto;
+    background-repeat: no-repeat;
 }
 
 #c {
@@ -55,4 +56,8 @@ padding-top:80px;
 
 #m-hidden {
    display:none; 
+}
+
+.o {
+    text-align: center;
 }
