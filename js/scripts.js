@@ -13,8 +13,8 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-    $(".click2").click(function() {
+    $(".click3").click(function() {
         $("#m-hidden").toggle()
-            $("#d3-show").toggle()
+            $("#d4-show").toggle()
         });
     });
