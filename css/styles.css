@@ -29,7 +29,7 @@ color:white;
     background-color: white;
     padding: 30px;
     text-align: center;
-}
+    }
 
 .h {
     background-image: url("../IP3-master/assets/backgrounds/s_image.jpg");
@@ -60,6 +60,43 @@ padding-top:80px;
 
 .o {
     text-align: center;
+}
+
+.o images{
+    padding:10px;
+}
+
+.Con {
+    color:white;
+    background-image: url(../IP3-master/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    height:90vh; 
+}
+
+.theform input {
+    width: 45%;
+    background: transparent;
+  }
+  
+ #place {
+    margin-top: 20px;
+    width: 100%;
+    background: transparent;
+    padding-top:50px;
+ 
+ }
+ .theform{
+    text-align: center;
+    position: relative;
+    left: 50%;
+    width:800px;
+    transform: translate(-50%);
+    background: transparent;
+    
+}
+
+.theform textarea{
+    margin-top:20px;
 }
 
 
