@@ -1,6 +1,6 @@
 # Delani Studio
 Welcome To Delani Workshop.
-This is a web application and it contains information about Delani and the work we do }
+This is a web application and it contains information about Delani and the work we do 
 
 ### Author 
 Peter Murutu.
